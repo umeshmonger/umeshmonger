@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Umesh Monger
 
-<!--
-**umeshmonger/umeshmonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate with interests in embedded systems, firmware, FPGA, PCB design, automation, and practical troubleshooting.
 
-Here are some ideas to get you started:
+## What I'm focused on
+- Embedded firmware and hardware-related projects
+- FPGA / VHDL and digital design
+- PCB and sensor-based systems
+- Python and scripting for automation and diagnostics
+- Building a stronger engineering project portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical areas
+- Embedded Systems
+- Firmware Development
+- FPGA / VHDL
+- PCB Design
+- C++
+- Python
+- Troubleshooting and Technical Support
+
+## Current goal
+I’m building and documenting projects that strengthen my portfolio for embedded, hardware, and technical engineering roles.
+
+## Featured projects
+Project links will be added here as I finish polishing them.
+
+## Contact
+- Email: umesh_monger@yahoo.com
+- LinkedIn: add your LinkedIn link here
